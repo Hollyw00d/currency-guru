@@ -1,7 +1,6 @@
 import { Tool } from "ai-jsx/batteries/use-tools";
 import {
   YourSidekickSystemMessage,
-  finalSystemMessageBeforeResponse,
 } from "./system-message.js";
 import { FixieCorpus } from "ai-jsx/batteries/docs";
 import { Sidekick } from "ai-jsx/sidekick";
@@ -12,7 +11,7 @@ import { Sidekick } from "ai-jsx/sidekick";
 //    tell me about foxes and what they eat
 //    what is the fennec fox like? how big do they get?
 //    who is foxie?
-const FIXIE_CORPUS_ID: string = "44094d5a-f817-4c2e-a2a4-8f8a0c936d0f";
+const FIXIE_CORPUS_ID: string = "a51553ef-e684-4503-a45c-14dac9879d71";
 
 if (!FIXIE_CORPUS_ID) {
   throw new Error("Please set a FIXIE_CORPUS_ID in src/index.tsx");
@@ -26,7 +25,7 @@ const tools: Record<string, Tool> = {
   // For more tips on using Tools, see: https://docs.ai-jsx.com/tutorial/part7-tools
   lookUpKnowledgeBase: FixieCorpus.createTool(
     FIXIE_CORPUS_ID,
-    "A tool for looking additional information to help answer the user query."
+    "A tool for looking up travel financial information"
   ),
   /*
   anotherPossibleTool: {
@@ -50,11 +49,9 @@ const tools: Record<string, Tool> = {
 export default function SidekickTemplate() {
   return (
     <Sidekick
-      // TODO: Give the Sidekick a descriptive role like "A helpful assistant for Acme Company".
-      role="A helpful assistant who is an expert on foxes."
+      role="A helpful assistant who is an expert on travel finances."
       systemMessage={systemMessage}
       tools={tools}
-      finalSystemMessageBeforeResponse={finalSystemMessageBeforeResponse}
     />
   );
 }
