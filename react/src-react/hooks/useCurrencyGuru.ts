@@ -12,6 +12,23 @@ const url =
 const TOKEN =
   'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJmaXhpZS5haS9wcm9kIiwiYXVkIjoiaHR0cHM6Ly9maXhpZS5haSIsInN1YiI6IjcwIn0.PUiMHRf7AU2Pa70TB5v17VKBsFgdkEs5_oo-rzka01c'; // T-58 put in .env
 
+const fetchParams = {
+  method: 'POST',
+  headers: {
+    'Content-Type': 'application/json',
+    Authorization: `Bearer ${TOKEN}`
+  },
+  redirect: 'follow',
+  body: JSON.stringify({
+    generationParams: {
+      model: null,
+      modelProvider: 'openai',
+      userTimeZoneOffset: 420
+    },
+    message: 'Hello! Tell me about yourself.'
+  })
+};
+
 export const useCurrencyGuru = () => {
   const [data, setData] = useState({});
   const onNext = useCallback(
@@ -21,7 +38,7 @@ export const useCurrencyGuru = () => {
     },
     [setData]
   );
-  useStream('http://myserver.io/stream', { onNext });
+  useStream(url, { onNext, fetchParams });
 
   const [chatHistory, setChatHistory] = useState<Message[]>([]);
   const lastMessage = chatHistory[0];
@@ -32,6 +49,8 @@ export const useCurrencyGuru = () => {
 
   return { lastMessage, postMessage };
 };
+
+// API Test to console
 
 function testFetch() {
   var myHeaders = new Headers();
