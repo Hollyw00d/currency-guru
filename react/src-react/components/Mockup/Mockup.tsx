@@ -11,7 +11,7 @@ export default function Mockup() {
             <div className="col-12">
               <h1 className="px-4 pt-4 pb-2 text-white">Currency Guru</h1>
               <p className="text-white px-4">
-                Info on Spending Before Traveling
+                Learn About Spending Before Traveling Abroad
               </p>
             </div>
           </div>
@@ -20,7 +20,7 @@ export default function Mockup() {
       <div className="full-size-img">
         <img src={boatInAfricaImg} alt="Boat in Africa" />
         <div className="input-wrapper">
-          <div>
+          <div className="position-relative">
             <input placeholder="Ask me about spending money abroad" />
             <SearchIcon className="search-icon" />
           </div>
