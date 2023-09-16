@@ -1,5 +1,6 @@
 import React from 'react';
 import boatInAfricaImg from '../../images/boat-in-africa.png';
+import samplePrompt from '../../images/sample-prompt.png';
 import SearchIcon from '@mui/icons-material/Search';
 
 export default function Mockup() {
@@ -21,9 +22,16 @@ export default function Mockup() {
         <img src={boatInAfricaImg} alt="Boat in Africa" />
         <div className="input-wrapper">
           <div className="position-relative">
-            <input placeholder="Ask me about spending money abroad" />
+            <input
+              placeholder="Ask me about spending money abroad"
+              value="Can I use a credit card in Cuba?"
+            />
             <SearchIcon className="search-icon" />
           </div>
+        </div>
+
+        <div className="sample-prompt">
+          <img src={samplePrompt} alt="sample prompt" />
         </div>
       </div>
     </>
