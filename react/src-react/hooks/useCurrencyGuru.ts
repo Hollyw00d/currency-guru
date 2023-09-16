@@ -2,7 +2,7 @@ import { useCallback, useState } from "react";
 // @ts-ignore
 import { useStream } from 'react-fetch-streams';
 
-type Message = {
+export type Message = {
   author: 'Me' | 'Guru'
   body: string
 }
@@ -24,5 +24,5 @@ export const useCurrencyGuru = () => {
     setChatHistory([...chatHistory, { author: 'Me', body: s }])
   }
 
-  return { lastMessage, postMessage }
+  return { chatHistory, postMessage }
 }

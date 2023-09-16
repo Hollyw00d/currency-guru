@@ -1,5 +1,11 @@
+import { useCurrencyGuru, Message } from "../../hooks/useCurrencyGuru";
+
 export const CurrencyGuru = () => {
-  <div className='guru'>
-    Guru Content Goes here
-  </div>
+  const { postMessage, chatHistory } = useCurrencyGuru();
+
+  return (
+    <div className='guru'>
+      { chatHistory.map((m: Message) => <div>{ m.author }</div>)}
+    </div>
+  )
 }
