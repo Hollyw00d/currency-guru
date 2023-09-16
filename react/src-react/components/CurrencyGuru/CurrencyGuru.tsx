@@ -1,11 +1,18 @@
-import { useCurrencyGuru, Message } from "../../hooks/useCurrencyGuru";
+import { useCurrencyGuru, FixieResponse } from "../../hooks/useCurrencyGuru";
+import {useState} from "react";
 
 export const CurrencyGuru = () => {
-  const { postMessage, chatHistory } = useCurrencyGuru();
+  const { postMessage, data } = useCurrencyGuru();
+  const [ newMessage, setNewMessage ] = useState<string>('')
+
+  const handlePostMessage = () => {
+    postMessage(newMessage)
+  }
 
   return (
     <div className='guru'>
-      { chatHistory.map((m: Message) => <div>{ m.author }</div>)}
+      { data?.turns.map((t) => <div>{ t.id }</div>) }
+      <input type={'text'} onChange={e => setNewMessage(e.target.value)} /><button onClick={handlePostMessage}>Post</button>
     </div>
   )
 }
