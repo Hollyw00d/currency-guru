@@ -1,0 +1,475 @@
+{
+  "source": "https://en.wikipedia.org/wiki/List_of_North_American_countries_by_population#cite_note-34",
+  "data": [
+    {
+      "country-name": "United States",
+      "country-code": "US",
+      "population": 339996564,
+      "percentage": 56.3,
+      "percentage-change": 0.5,
+      "date": "1 Jul 2022",
+      "source": "Official estimate",
+      "source-url": "https://www.census.gov/quickfacts/fact/table/US/PST045222"
+    },
+    {
+      "country-name": "Mexico",
+      "country-code": "MX",
+      "population": 128455567,
+      "percentage": 21.3,
+      "percentage-change": 0.7,
+      "date": "1 Jan 2023",
+      "source": "Official estimate",
+      "source-url": "https://www.economy.com/mexico/population/not-seasonally-adjusted"
+    },
+    {
+      "country-name": "Canada",
+      "country-code": "CA",
+      "population": 38781292,
+      "percentage": 6.4,
+      "percentage-change": 0.9,
+      "date": "1 Jan 2023",
+      "source": "Official estimate",
+      "source-url": "https://www.statcan.gc.ca/en/start"
+    },
+    {
+      "country-name": "Guatemala",
+      "country-code": "GT",
+      "population": 18092026,
+      "percentage": 3.0,
+      "percentage-change": 1.4,
+      "date": "1 Jul 2023",
+      "source": "Official projection",
+      "source-url": "https://www.censopoblacion.gt/archivos/Estimaciones_y_proyecciones_nacionales_de_poblacion.pdf"
+    },
+    {
+      "country-name": "Haiti",
+      "country-code": "HT",
+      "population": 11724764,
+      "percentage": 1.9,
+      "percentage-change": 1.2,
+      "date": "1 Jul 2012",
+      "source": "Official estimate",
+      "source-url": "https://www.haiti.org/haiti-at-a-glance/"
+    },
+    {
+      "country-name": "Dominican Republic",
+      "country-code": "DO",
+      "population": 11332973,
+      "percentage": 1.9,
+      "percentage-change": 0.9,
+      "date": "1 Jul 2023",
+      "source": "Official projection",
+      "source-url": "https://www.one.gob.do/datos-y-estadisticas/temas/estadisticas-demograficas/estimaciones-y-proyecciones-demograficas/"
+    },
+    {
+      "country-name": "Cuba",
+      "country-code": "CU",
+      "population": 11194449,
+      "percentage": 1.9,
+      "percentage-change": -0.2,
+      "date": "1 Jul 2023",
+      "source": "Official figure",
+      "source-url": "http://www.onei.gob.cu/node/13815"
+    },
+    {
+      "country-name": "Honduras",
+      "country-code": "HN",
+      "population": 10593798,
+      "percentage": 1.8,
+      "percentage-change": 1.5,
+      "date": "1 Jul 2023",
+      "source": "Official projection",
+      "source-url": "https://www.citypopulation.de/en/honduras/cities/"
+    },
+    {
+      "country-name": "Nicaragua",
+      "country-code": "NI",
+      "population": 7046311,
+      "percentage": 1.2,
+      "percentage-change": 1.4,
+      "date": "30 Jun 2021",
+      "source": "Official estimate",
+      "source-url": "https://www.inide.gob.ni/docs/Anuarios/Anuario20/Anuario_Estadistico_2020.pdf"
+    },
+    {
+      "country-name": "El Salvador",
+      "country-code": "SV",
+      "population": 6364943,
+      "percentage": 1.1,
+      "percentage-change": 0.5,
+      "date": "30 Jun 2020",
+      "source": "Official projection",
+      "source-url": "https://www.citypopulation.de/en/elsalvador/cities/"
+    },
+    {
+      "country-name": "Costa Rica",
+      "country-code": "CR",
+      "population": 5212173,
+      "percentage": 0.9,
+      "percentage-change": 0.6,
+      "date": "30 Jun 2020",
+      "source": "Official projection",
+      "source-url": "https://inec.cr/tematicas/listado?topics=91%252C646"
+    },
+    {
+      "country-name": "Panama",
+      "country-code": "PA",
+      "population": 4468087,
+      "percentage": 0.7,
+      "percentage-change": 1.3,
+      "date": "1 Jul 2020",
+      "source": "Official projection",
+      "source-url": "https://www.inec.gob.pa/archivos/P5561Cuadro%2077.pdf"
+    },
+    {
+      "country-name": "Puerto Rico",
+      "country-code": "PR",
+      "population": 3260314,
+      "percentage": 0.5,
+      "percentage-change": 0.2,
+      "date": "1 Jul 2022",
+      "source": "Official estimate",
+      "source-url": "https://www.census.gov/quickfacts/geo/chart/ID/PST045222"
+    },
+    {
+      "country-name": "Jamaica",
+      "country-code": "JM",
+      "population": 2825544,
+      "percentage": 0.5,
+      "percentage-change": -0.1,
+      "date": "1 Jul 2019",
+      "source": "Official projection",
+      "source-url": "https://statinja.gov.jm/Demo_SocialStats/PopulationStats.aspx"
+    },
+    {
+      "country-name": "Trinidad and Tobago",
+      "country-code": "TT",
+      "population": 1534937,
+      "percentage": 0.3,
+      "percentage-change": 0.3,
+      "date": "30 Jun 2022",
+      "source": "Official estimate",
+      "source-url": "https://cso.gov.tt/subjects/population-and-vital-statistics/population/"
+    },
+    {
+      "country-name": "Bahamas",
+      "country-code": "BS",
+      "population": 412624,
+      "percentage": 0.1,
+      "percentage-change": 0.6,
+      "date": "1 Jul 2019",
+      "source": "Official projection",
+      "source-url": "http://www.citypopulation.de/Bahamas-Islands.html"
+    },
+    {
+      "country-name": "Panama",
+      "country-code": "PA",
+      "population": 4468087,
+      "percentage": 0.7,
+      "percentage-change": 1.3,
+      "date": "1 Jul 2020",
+      "source": "Official projection",
+      "source-url": "https://www.inec.gob.pa/archivos/P5561Cuadro%2077.pdf"
+    },
+    {
+      "country-name": "Puerto Rico",
+      "country-code": "PR",
+      "population": 3260314,
+      "percentage": 0.5,
+      "percentage-change": 0.2,
+      "date": "1 Jul 2022",
+      "source": "Official estimate",
+      "source-url": "https://www.census.gov/quickfacts/geo/chart/ID/PST045222"
+    },
+    {
+      "country-name": "Jamaica",
+      "country-code": "JM",
+      "population": 2825544,
+      "percentage": 0.5,
+      "percentage-change": -0.1,
+      "date": "1 Jul 2019",
+      "source": "Official projection",
+      "source-url": "https://statinja.gov.jm/Demo_SocialStats/PopulationStats.aspx"
+    },
+    {
+      "country-name": "Trinidad and Tobago",
+      "country-code": "TT",
+      "population": 1534937,
+      "percentage": 0.3,
+      "percentage-change": 0.3,
+      "date": "30 Jun 2022",
+      "source": "Official estimate",
+      "source-url": "https://cso.gov.tt/subjects/population-and-vital-statistics/population/"
+    },
+    {
+      "country-name": "Bahamas",
+      "country-code": "BS",
+      "population": 412624,
+      "percentage": 0.1,
+      "percentage-change": 0.6,
+      "date": "1 Jul 2019",
+      "source": "Official projection",
+      "source-url": "http://www.citypopulation.de/Bahamas-Islands.html"
+    },
+    {
+      "country-name": "Belize",
+      "country-code": "BZ",
+      "population": 410825,
+      "percentage": 0.1,
+      "percentage-change": 1.4,
+      "date": "1 Jul 2022",
+      "source": "Official figure",
+      "source-url": "https://sib.org.bz/"
+    },
+    {
+      "country-name": "Guadeloupe",
+      "country-code": "GP",
+      "population": 395839,
+      "percentage": 0.1,
+      "percentage-change": 0.0,
+      "date": "1 Jan 2023",
+      "source": "Official estimate",
+      "source-url": "https://www.insee.fr/fr/statistiques/1893198"
+    },
+    {
+      "country-name": "Martinique",
+      "country-code": "MQ",
+      "population": 366981,
+      "percentage": 0.1,
+      "percentage-change": -0.1,
+      "date": "1 Jan 2023",
+      "source": "Official estimate",
+      "source-url": "https://www.insee.fr/fr/statistiques/1893198"
+    },
+    {
+      "country-name": "Barbados",
+      "country-code": "BB",
+      "population": 281996,
+      "percentage": 0.05,
+      "percentage-change": 0.1,
+      "date": "1 May 2010",
+      "source": "Adjusted census result",
+      "source-url": "https://www.citypopulation.de/en/barbados/"
+    },
+    {
+      "country-name": "Curaçao",
+      "country-code": "CW",
+      "population": 192077,
+      "percentage": 0.03,
+      "percentage-change": 0.5,
+      "date": "1 Jan 2023",
+      "source": "Official figure",
+      "source-url": "http://stats.sintmaartengov.org/"
+    },
+    {
+      "country-name": "Saint Lucia",
+      "country-code": "LC",
+      "population": 180251,
+      "percentage": 0.03,
+      "percentage-change": 0.2,
+      "date": "1 Jul 2018",
+      "source": "Official estimate",
+      "source-url": "https://stats.gov.lc/subjects/society/population/"
+    },
+    {
+      "country-name": "Grenada",
+      "country-code": "GD",
+      "population": 126184,
+      "percentage": 0.02,
+      "percentage-change": 0.6,
+      "date": "1 Jul 2019",
+      "source": "Official estimate",
+      "source-url": "https://www.citypopulation.de/en/grenada/"
+    },
+    {
+      "country-name": "Aruba",
+      "country-code": "AW",
+      "population": 106277,
+      "percentage": 0.02,
+      "percentage-change": -0.2,
+      "date": "31 Dec 2021",
+      "source": "Official estimate",
+      "source-url": "https://cbs.aw/wp/index.php/2022/06/16/quarterly-demographic-bulletin-2022/"
+    },
+    {
+      "country-name": "Saint Vincent and the Grenadines",
+      "country-code": "VC",
+      "population": 103699,
+      "percentage": 0.02,
+      "percentage-change": -0.2,
+      "date": "1 Jul 2022",
+      "source": "Official estimate",
+      "source-url": "https://stats.gov.vc/subjects/population-and-demography/"
+    },
+    {
+      "country-name": "US Virgin Islands",
+      "country-code": "VI",
+      "population": 98750,
+      "percentage": 0.02,
+      "percentage-change": -0.7,
+      "date": "1 Apr 2020",
+      "source": "2020 Census result",
+      "source-url": "https://www2.census.gov/programs-surveys/decennial/2020/data/island-areas/us-virgin-islands/population-and-housing-unit-counts/us-virgin-islands-phc-table01.pdf"
+    },
+    {
+      "country-name": "Antigua and Barbuda",
+      "country-code": "AG",
+      "population": 94298,
+      "percentage": 0.02,
+      "percentage-change": 0.6,
+      "date": "1 Jan 2022",
+      "source": "Official figure",
+      "source-url": "https://statistics.gov.ag/"
+    },
+    {
+      "country-name": "Dominica",
+      "country-code": "DM",
+      "population": 73040,
+      "percentage": 0.01,
+      "percentage-change": 0.4,
+      "date": "14 May 2011",
+      "source": "2011 census result",
+      "source-url": "https://dominica.gov.dm/images/documents/2011_census_report.pdf"
+    },
+    {
+      "country-name": "Cayman Islands",
+      "country-code": "KY",
+      "population": 69310,
+      "percentage": 0.01,
+      "percentage-change": 0.9,
+      "date": "10 Oct 2021",
+      "source": "2021 census result",
+      "source-url": "https://www.eso.ky/user_images/census_2021/Section_1.1.pdf"
+    },
+    {
+      "country-name": "Bermuda",
+      "country-code": "BM",
+      "population": 64069,
+      "percentage": 0.01,
+      "percentage-change": -0.2,
+      "date": "1 Jul 2023",
+      "source": "Official projection",
+      "source-url": "https://www.gov.bm/sites/default/files/Bermuda-Population-Projections-2016-2026.pdf"
+    },
+    {
+      "country-name": "Greenland",
+      "country-code": "GL",
+      "population": 56643,
+      "percentage": 0.01,
+      "percentage-change": 0.3,
+      "date": "1 Apr 2023",
+      "source": "Official estimate",
+      "source-url": "http://bank.stat.gl/pxweb/en/Greenland/Greenland__BE__BE85/BEXSTK3.px/?rxid=BEXSAT101-08-2020%2023:21:09/"
+    },
+    {
+      "country-name": "Saint Kitts and Nevis",
+      "country-code": "KN",
+      "population": 47755,
+      "percentage": 0.01,
+      "percentage-change": 0.2,
+      "date": "15 May 2011",
+      "source": "2011 census result",
+      "source-url": "https://www.stats.gov.kn/topics/demographic-social-statistics/population/households-population-and-average-household-size-by-parish-2001-2011/"
+    },
+    {
+      "country-name": "Turks and Caicos Islands",
+      "country-code": "TC",
+      "population": 46062,
+      "percentage": 0.01,
+      "percentage-change": 0.8,
+      "date": "1 Jul 2021",
+      "source": "Official figure",
+      "source-url": "https://www.gov.tc/stats/"
+    },
+    {
+      "country-name": "Sint Maarten",
+      "country-code": "SX",
+      "population": 44222,
+      "percentage": 0.01,
+      "percentage-change": 0.1,
+      "date": "1 Jan 2023",
+      "source": "Official figure",
+      "source-url": "http://stats.sintmaartengov.org/"
+    },
+    {
+      "country-name": "Saint Martin",
+      "country-code": "MF",
+      "population": 32077,
+      "percentage": 0.01,
+      "percentage-change": 0.9,
+      "date": "1 Jan 2020",
+      "source": "Official figure",
+      "source-url": "https://www.insee.fr/fr/statistiques/6683019?sommaire=6683037#consulter"
+    },
+    {
+      "country-name": "British Virgin Islands",
+      "country-code": "VG",
+      "population": 31538,
+      "percentage": 0.01,
+      "percentage-change": 0.7,
+      "date": "12 Jul 2010",
+      "source": "2010 census result",
+      "source-url": "https://www.citypopulation.de/en/britishvirginislands/"
+    },
+    {
+      "country-name": "Caribbean Netherlands",
+      "country-code": "BQ",
+      "population": 27148,
+      "percentage": 0.004,
+      "percentage-change": 0.4,
+      "date": "1 Jan 2022",
+      "source": "Official estimate",
+      "source-url": "https://www.citypopulation.de/en/caribbeannetherlands/"
+    },
+    {
+      "country-name": "Anguilla",
+      "country-code": "AI",
+      "population": 15900,
+      "percentage": 0.003,
+      "percentage-change": 0.3,
+      "date": "1 Dec 2022",
+      "source": "Official figure",
+      "source-url": "http://statistics.gov.ai/"
+    },
+    {
+      "country-name": "Saint Barthélemy",
+      "country-code": "BL",
+      "population": 10994,
+      "percentage": 0.002,
+      "percentage-change": 0.2,
+      "date": "1 Jan 2020",
+      "source": "Official figure",
+      "source-url": "https://www.insee.fr/fr/statistiques/6683019?sommaire=6683037#consulter"
+    },
+    {
+      "country-name": "Saint Pierre and Miquelon",
+      "country-code": "PM",
+      "population": 5840,
+      "percentage": 0.001,
+      "percentage-change": -0.4,
+      "date": "1 Jan 2020",
+      "source": "Official figure",
+      "source-url": "https://www.insee.fr/fr/statistiques/6683019?sommaire=6683037#consulter"
+    },
+    {
+      "country-name": "Montserrat",
+      "country-code": "MS",
+      "population": 4387,
+      "percentage": 0.001,
+      "percentage-change": -0.1,
+      "date": "1 Jul 2022",
+      "source": "Official figure",
+      "source-url": "https://statistics.gov.ms/"
+    },
+    {
+      "country-name": "Total",
+      "country-code": "Total",
+      "population": 604182528,
+      "percentage": 100,
+      "percentage-change": 0.6,
+      "date": "",
+      "source": "",
+      "source-url": ""
+    }
+  ]
+}
